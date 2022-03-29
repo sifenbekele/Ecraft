@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<head><title>E-craft The mastery of character</title></head>
+<body>
+<header>
+<a href="index.html">
+<img src="llogo.jpg" alt="Z-lifecraft">
+</header>
+</a>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td><a href="index.html">Home</a></td>
+<td><a href="Character count.html">Character Count</a></td>
+<td><a href="life skills.html">Life Skills</a></td>
+<td><a href="icons' quotes.html">Icons' Quotes</a></td>
+<td><a href="about us.html">About Us</a></td>
+<td><a href="contact us.html">Contact Us</a> </td>
+</tr>
+</table>
+</nav>
+<hr>
+</body>
